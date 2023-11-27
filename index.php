@@ -94,7 +94,7 @@ session_start();
                     <a class="nav-link page-scroll" href="index.php?page=cfps">CALL FOR PROJECTS</a>
                 </li>
                 <?php
-                if ($_SESSION["user"]) {
+                if ($_SESSION['user']) {
                     echo "
                             <li class='nav-item dropdown'>
                                 <span class='nav-link dropdown-toggle page-scroll' id='navbarDropdown' role='button' aria-haspopup='true' aria-expanded='false'>MY ACCOUNT</span>
