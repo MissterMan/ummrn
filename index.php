@@ -101,6 +101,8 @@ session_start();
                                 <div class='dropdown-menu' aria-labelledby='navbarDropdown'>
                                     <a class='dropdown-item' href='index.php?page=notifications'><span class='item-text'>NOTIFICATIONS</span></a>
                                     <div class='dropdown-items-divide-hr'></div>
+                                    <a class='dropdown-item' href='index.php?page=profile'><span class='item-text'>PROFILE</span></a>
+                                    <div class='dropdown-items-divide-hr'></div>
                                     <a class='dropdown-item' href='logout.php'><span class='item-text'>LOGOUT</span></a>
                                 </div>
                             </li>         
